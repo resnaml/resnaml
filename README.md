@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @resnaml
 - 👀 I’m interested in AI and Machine learning
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I’m currently learning Javascript
+- 🖼  I'M Using Framework : Laravel and React
 - 📫 How to reach me @resnamulya
 
 
